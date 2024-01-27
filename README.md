@@ -1,4 +1,4 @@
-# QR-Code-Generation-Project
+# QRBuilder-Project
 QR Code Generator using NodeJS! 
 
 Throughout this project, I dived into the intriguing world of QR codes - those 2D barcodes that you can effortlessly scan with your phone to direct to any URL. My objective was to build a powerful tool that enables users to generate QR codes from any URL they can imagine.
